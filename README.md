@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+Setup Base URL :
+create a .env file and add 
+VITE_API_BASE_URL ='http://pos-backend.test/api/v1'(Api End point)
